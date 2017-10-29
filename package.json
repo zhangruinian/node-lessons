@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/zhangruinian/node-lessons#readme",
   "dependencies": {
-    "express": "^4.16.2"
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.2",
+    "superagent": "^3.8.0",
+    "utility": "^1.13.1"
   }
 }
