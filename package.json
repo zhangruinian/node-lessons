@@ -21,6 +21,7 @@
     "benchmark": "^2.1.4",
     "cheerio": "^1.0.0-rc.2",
     "express": "^4.16.2",
+    "socket.io": "^2.0.4",
     "superagent": "^3.8.0",
     "utility": "^1.13.1"
   }
