@@ -24,5 +24,8 @@
     "socket.io": "^2.0.4",
     "superagent": "^3.8.0",
     "utility": "^1.13.1"
+  },
+  "devDependencies": {
+    "request": "^2.88.0"
   }
 }
